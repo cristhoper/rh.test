@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">interviewApp</string>
+    <string name="app_version">v2.5.4</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="dummy_name">Francisco</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- For fontawesome -->
+    <string name="fa_dollar_sign">&#xf155;</string>
+    <string name="fa_wallet">&#xf1ee;</string>
+    <string name="fa_map_marked_alt">&#xf201;</string>
+    <string name="fa_tag">&#xf201;</string>
+    <string name="fa_envelope">&#xf201;</string>
+    <string name="fa_cog">&#xf201;</string>
+    <!-- button names -->
+    <string name="payment">Pago Facil</string>
+    <string name="stations">Estaciones de Servicio</string>
+    <string name="route">Mi Ruta</string>
+    <string name="benefits">Mis Beneficios</string>
+    <string name="msg">Mensajes [0]</string>
+    <string name="config">Configuracion</string>
+    <!-- dialog string -->
+    <string name="dialog_string">Ingrese RUT</string>
+    <string name="dialog_rut_hint">11.111.111-1</string>
+</resources>
